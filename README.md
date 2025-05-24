@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Mohd Kaif
 
 🎓 I'm a Data Science student passionate about turning data into actionable insights.  
 🚀 Currently working on hands-on projects in machine learning, data analysis, and visualization.  
@@ -48,7 +48,7 @@
 
 ## 📫 How to reach me
 - Email: [syedkaifpvt@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/mohd-kaif-6254bb144/]
+- LinkedIn: https://www.linkedin.com/in/mohd-kaif-6254bb144/
 
 ---
 
